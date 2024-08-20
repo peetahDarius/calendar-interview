@@ -1,5 +1,7 @@
-The calendar interview backend code is located in the backend folder
+The calendar interview backend code is located in the backend folder.
+
 For the API documentation, please navigate to "http://< your ip address >:8000/api/documentation"
+
 Below is the backend's directory structure:
 ├── backend
 │   ├── api
